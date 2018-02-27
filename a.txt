@@ -1,5 +1,11 @@
 Tanmay Panchal
 Mehul Varia
 Jaydeep Patel
+<<<<<<< HEAD
 Ashim Goldar
 Mayur Tirger
+=======
+
+Jayesh Dhameliya
+Pranav Kulkhetra
+>>>>>>> 19d9a4be32bf417ec50fecd2ea1ffce7fb8e53f1
